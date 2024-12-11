@@ -4,18 +4,13 @@
 
 ## About The Project
 
-The Shopify Subscriptions Reference app is an example of how to build a Subscriptions application with [Remix](https://remix.run/). This is a fully featured app with performance, flexibility, and extensions built-in and acts as a reference for building Shopify apps.
+The Shopify Subscriptions Reference app is an example of how to build a subscriptions application with [Remix](https://remix.run/). The reference app includes the basic features of the [Shopify Subscription app](https://apps.shopify.com/shopify-subscriptions) and serves as a starting point or example app for building subscription applications.
 
 We developed the Shopify Subscriptions Reference app with the following in mind:
 
 - **Build a custom subscriptions solution** that meets your commerce needs.
 - **Build faster** using the source code from the [Shopify Subscriptions Reference app](https://apps.shopify.com/shopify-subscriptions).
 - **The core [building blocks](https://shopify.dev/docs/apps/build/purchase-options/subscriptions/subscriptions-app/core-system-components) you need to build an app** that integrates with Shopify’s ecosystem.
-
-Use the Shopify Subscriptions Reference app as an example app or starting point for building your own subscriptions application
-
-> Note:
-> The Shopify Subscriptions Reference app serves as the foundation for the [Shopify Subscription application](https://apps.shopify.com/shopify-subscriptions).
 
 ### App Store submission
 
