@@ -26,3 +26,6 @@ If no scopes are missing, it will return an empty list ([]).
     [] as string[],
   );
 }
+
+
+// by the way, this only tells you which ones are missing. doesn't redirect
